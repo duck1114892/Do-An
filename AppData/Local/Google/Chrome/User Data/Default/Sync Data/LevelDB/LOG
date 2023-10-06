@@ -1,0 +1,18 @@
+2023/04/27-07:46:59.945 3e28 Reusing MANIFEST C:\Users\lengu\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/MANIFEST-000001
+2023/04/27-07:46:59.946 3e28 Recovering log #88
+2023/04/27-07:46:59.949 3e28 Reusing old log C:\Users\lengu\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/000088.log 
+2023/04/27-08:28:00.267 47c0 Level-0 table #92: started
+2023/04/27-08:28:00.273 47c0 Level-0 table #92: 155446 bytes OK
+2023/04/27-08:28:00.274 47c0 Delete type=0 #88
+2023/04/27-08:28:00.275 47c0 Compacting 4@0 + 1@1 files
+2023/04/27-08:28:00.283 47c0 Generated table #93@0: 164 keys, 17890 bytes
+2023/04/27-08:28:00.283 47c0 Compacted 4@0 + 1@1 files => 17890 bytes
+2023/04/27-08:28:00.284 47c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/27-08:28:00.285 47c0 Delete type=2 #82
+2023/04/27-08:28:00.285 47c0 Delete type=2 #85
+2023/04/27-08:28:00.285 47c0 Delete type=2 #87
+2023/04/27-08:28:00.285 47c0 Delete type=2 #89
+2023/04/27-08:28:00.285 47c0 Delete type=2 #92
+2023/04/27-10:14:34.891 47c0 Level-0 table #95: started
+2023/04/27-10:14:34.894 47c0 Level-0 table #95: 80537 bytes OK
+2023/04/27-10:14:34.895 47c0 Delete type=0 #91
